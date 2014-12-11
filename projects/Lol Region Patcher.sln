@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Desktop
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LolRegionPatcher", "GringoPatcher\LolRegionPatcher.csproj", "{9B9F9AEF-E1A9-4BBA-915A-3A00E560A3B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LolRegionPatcher", "LolRegionPatcher\LolRegionPatcher.csproj", "{9B9F9AEF-E1A9-4BBA-915A-3A00E560A3B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
