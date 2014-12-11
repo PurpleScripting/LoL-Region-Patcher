@@ -92,7 +92,7 @@ namespace LolRegionPatcher
                         systemFile.Write(sb.ToString());
                         sb.Clear();
                     }
-                    using (StreamWriter systemFile = new StreamWriter(filePath + @"\regions.txt"))
+                    using (StreamWriter systemFile = new StreamWriter(regionTextPath + @"\regions.txt"))
                     {
                         sb.AppendLine("na,            na,            en_US, ");
                         sb.AppendLine("br,            br,            pt_BR,");
@@ -132,7 +132,7 @@ namespace LolRegionPatcher
                         systemFile.Write(sb.ToString());
                         sb.Clear();
                     }
-                    using (StreamWriter systemFile = new StreamWriter(filePath + @"\regions.txt"))
+                    using (StreamWriter systemFile = new StreamWriter(regionTextPath + @"\regions.txt"))
                     {
                         sb.AppendLine("na,            na,            en_US, ");
                         sb.AppendLine("br,            br,            pt_BR,");
